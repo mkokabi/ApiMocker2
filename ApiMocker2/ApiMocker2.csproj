@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>07765c4b-dcf6-4ab2-bead-7f8855de864c</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <Title>APIMocker2</Title>
+	<PackageId>APIMocker</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Mohsen Kokabi</Authors>
+	<owners>Mohsen Kokabi</owners>
+	<Company>MoKo Solution</Company>
+	<IsPackable>true</IsPackable>
+	<PackageTags>API test</PackageTags>
+	<PackageIcon>icon.png</PackageIcon>
+	<Description>
+		An test application for mocking APIs based on the configuration.
+		For more help please visit https://github.com/mkokabi/apiMocker
+	</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+  </ItemGroup>
+
+</Project>
