@@ -1,0 +1,22 @@
+{
+  "member": [
+    {
+      "_rowstamp": "[0 0 0 0 0 103 -52 -98]",
+      "status_description": "In progress",
+      "invreserve_collectionref": "http://localhost/maximo/api/os/mxwodetail/_QUtMLzEyMzQ-/mxintinvres",
+      "wpmaterial_collectionref": "http://localhost/maximo/api/os/mxwodetail/_QUtMLzEyMzQ-/wpmaterial",
+      "wptool_collectionref": "http://localhost/maximo/api/os/mxwodetail/_QUtMLzEyMzQ-/wptool",
+      "description": "created from postman,edited",
+      "changedate": "2022-01-16T05:47:57+00:00",
+      "href": "http://localhost/maximo/api/os/mxwodetail/_QUtMLzEyMzQ-",
+      "wplabor_collectionref": "http://localhost/maximo/api/os/mxwodetail/_QUtMLzEyMzQ-/wplabor",
+      "wpservice_collectionref": "http://localhost/maximo/api/os/mxwodetail/_QUtMLzEyMzQ-/wpservice",
+      "status": "INPRG",
+      "wonum": "1234"
+    }
+  ],
+  "href": "http://localhost/maximo/api/os/MXWODETAIL",
+  "responseInfo": {
+    "href": "http://mas.manage.aordev01.aucklandonerail.co.nz/maximo/api/os/MXWODETAIL/?apikey=kqqn9pdubbg4u7j0ivauc1mgbjmhc0n8kfen4i6i&lean=1&oslc.select=wonum,description,status,assetnum,changedate"
+  }
+}
